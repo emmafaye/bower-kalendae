@@ -5,7 +5,7 @@
   "authors": [
     "Geremia Taglialatela"
   ],
-  "main": ["kalendae.standalone.min.js", "kalendae.css"],
+  "main": ["build/kalendae.standalone.min.js", "build/kalendae.css"],
   "description": "A framework agnostic javascript date picker.",
   "keywords": [
     "datepicker",
